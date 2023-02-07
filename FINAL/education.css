@@ -1,0 +1,30 @@
+table th,td{
+    padding: 10px;
+    
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1%;
+    font-size: large;
+    border-color: aliceblue;
+}
+p{
+    text-align: center;
+    font-size: 2vw;
+    margin-top: 9%;
+}
+body{
+    background-color: rgb(7, 80, 64);
+}
+footer{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: large;
+    margin-top: 10%;
+}
+footer a{
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+}

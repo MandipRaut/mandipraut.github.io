@@ -1,0 +1,32 @@
+body{
+    background-color: chocolate;
+}
+h1{
+    font-size: 4vw;
+}
+ul li{
+    font-size: 2vw;
+}
+footer{
+    text-align: center;
+    color: rgb(8, 8, 8);
+    font-size: 2vw;
+    margin-top: 10%;
+}
+footer a{
+    text-decoration: none;
+    color: rgb(8, 8, 8);
+    padding: 10px;
+}
+h1{
+    margin-left: 3%; 
+}
+ul li{
+    margin-left: 5%;
+}
+p{
+    margin-top: 5%;
+    text-align: center;
+    font-size: 2vw;
+    font-weight: bolder;
+}

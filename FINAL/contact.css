@@ -1,0 +1,44 @@
+body{
+    background-image: url('phone.jpg');
+    background-size: 100% 110%;
+    background-repeat: no-repeat;
+}
+h1{
+    font-size: 5vw;
+    text-align: center;
+}
+form{
+    border-style: solid;
+    border-color: black;
+    margin-right: 35%;
+    margin-left: 35%;
+    margin-top: -2%;
+}
+li{
+    list-style: none;
+    padding: 10px;
+    font-size: larger;
+    font-weight: bold;
+}
+input[type=button] {
+    background-color: #0b251c;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 14px;
+    cursor: pointer;
+}
+footer{
+    text-align: center;
+    color: black;
+    font-size: large;
+    margin-top: 2%;
+}
+footer a{
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+}
+.form{
+    margin-top: -1%;
+}

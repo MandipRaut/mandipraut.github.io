@@ -1,0 +1,33 @@
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 8vw;
+    color: black;
+    margin-top: 10%;
+    text-transform: capitalize;
+    word-spacing: 10px;
+    font-weight: bold;
+}
+body{
+    background-color: brown;
+}
+footer{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: large;
+    margin-top: -10px;
+}
+footer a{
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+}
+@media screen and (max-width: 478px) {
+    footer{
+        margin-top: 12rem;
+        font-size: small;
+    }
+    p{
+        margin-top: 10rem;
+        font-size: 4rem;
+    }
+}
